@@ -33,3 +33,15 @@ Manipulação de dados de uma API: Mostramos como importar e manipular dados de 
 Manipulação de Strings para acessar uma API: Vimos como manipular strings para criar endereços que a API compreenderá e retornará os dados desejados.
 
 Introdução aos Lambdas: Conhecemos o Lambda Expressions em Java, conhecidas como funções anônimas que podemos usar para escrever código mais eficiente.
+
+### Aula 03
+
+Introdução às Funções Lambda: Aprendemos a sintaxe das funções lambda em Java e como elas permitem uma escrita mais concisa.
+
+Uso de Streams em Java: Obtemos um entendimento essencial das streams, que são fluxos de dados em Java, e como realizar operações encadeadas neles.
+
+Filtragem de Dados: Aprendemos como usar o recurso de filtragem em streams para selecionar apenas dados específicos, neste caso, episódios de séries de TV com avaliação específica.
+
+Manipulando Datas: Exploramos como converter strings em LocalDates e tratamos possíveis exceções que podem ocorrer neste processo.
+
+Tratando Exceções: Fizemos tratamento de exceções específicas, como NumberFormatException e DateTimeParseException, que podem ocorrer devido à conversão de dados.
