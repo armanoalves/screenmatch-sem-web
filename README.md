@@ -45,3 +45,15 @@ Filtragem de Dados: Aprendemos como usar o recurso de filtragem em streams para 
 Manipulando Datas: Exploramos como converter strings em LocalDates e tratamos possíveis exceções que podem ocorrer neste processo.
 
 Tratando Exceções: Fizemos tratamento de exceções específicas, como NumberFormatException e DateTimeParseException, que podem ocorrer devido à conversão de dados.
+
+### Aula 04
+
+Uso da função peek: Foi introduzida a função peek no Java, que permite visualizar o que está acontecendo em cada etapa da stream, facilitando o processo de debug.
+
+Operações Intermediárias e Finais: Aprendemos sobre a utilização de operações (como map, filter e find) que nos permitem manipular e encontrar dados dentro de um Stream.
+
+Uso de Containers para Dados: Examinamos como usar o Container Optional para armazenar um episódio dentro de um Stream e evitar referências nulas.
+
+Filtragem de dados: Aprendemos a importância de filtrar dados adequados para análises e como isso pode afetar os resultados.
+
+Uso do DoubleSummaryStatistics: Aprendemos como a classe Double Summary Statistics do Java pode ajudar a analisar informações, como a maior avaliação, a menor e a quantidade de avaliações em nossas séries.
